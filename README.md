@@ -3,10 +3,17 @@
 
 
 ## Profile
+<div align="start">
+
+  <a href="https://instagram.com/burakbehlull" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://discord.com/channels/@me/677194506621288448" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  
+</div>
 
 <div align="start">
-  <a href="https://discord.com/users/677194506621288448"><img  width="400px" src="https://lanyard.cnrad.dev/api/677194506621288448?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=burxk">  
-  </a>
+  <p></p><img src="https://lanyard.cnrad.dev/api/677194506621288448?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;"></p>
+  
+  
 </div>
 
 ## Tech Stack
@@ -63,3 +70,8 @@
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
 </div>
+
+# Stats
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakbehlull&show_icons=true&locale=en&layout=compact"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakbehlull&show_icons=true&locale=en" /></p>
+

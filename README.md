@@ -6,12 +6,12 @@
 <div align="start">
 
   <a href="https://instagram.com/burakbehlull" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://discord.com/channels/@me/677194506621288448" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/channels/@me/470548458072440842" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   
 </div>
 
 <div align="start">
-  <p></p><img src="https://lanyard.cnrad.dev/api/677194506621288448?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;"></p>
+  <p></p><img src="https://lanyard.cnrad.dev/api/470548458072440842?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;"></p>
   
   
 </div>
